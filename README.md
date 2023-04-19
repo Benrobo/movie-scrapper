@@ -19,8 +19,7 @@ A basic python script which scrappes movies from the popular site [Thenetnaija.c
       "movie_thumbnail": "https://static.netnaija.com/i/XV5KvPRGa9m.webp",
       "movieName": "Ant-Man and the Wasp: Quantumania (2023)",
       "movieUrl": "https://www.thenetnaija.net/videos/movies/18505-ant-man-and-the-wasp-quantumania-2023"
-    },
-    ....
+    }
 }
 ```
 
